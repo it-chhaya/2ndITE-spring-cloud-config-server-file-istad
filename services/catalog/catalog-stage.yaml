@@ -1,0 +1,3 @@
+product:
+  openapi:
+    base-url: http://10.10.1.168:8168

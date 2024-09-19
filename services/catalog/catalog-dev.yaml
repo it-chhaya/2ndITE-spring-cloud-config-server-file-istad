@@ -1,0 +1,7 @@
+file-server:
+  base-uri: 'http://localhost:8168/file/'
+  server-path: 'C:\\Users\\iLJiMae\\OneDrive\\Pictures\\file-server\\'
+
+product:
+  openapi:
+    base-url: http://localhost:8168
